@@ -14,6 +14,7 @@ prompt = "Generate a concise title that summarizes these key points:\n\n" + "\n"
 
 The results are then displayed to the user with each group title above the key points related to that topic. Here are some screenshots of the *extemely basic* web app UI:
 
-[![search terms](https://ibb.co/fr84PNb "search terms")](https://ibb.co/fr84PNb "search terms")
+<img width="413" alt="Screenshot 2024-02-20 at 10 48 42 AM" src="https://github.com/wkniffin/ai-news-aggregation/assets/10079417/7ffb6218-e36f-4b05-91cf-ccbe15adc032">
 
-[![results](https://ibb.co/KFxpZcD "results")](https://ibb.co/KFxpZcD "results")
+<img width="1515" alt="Screenshot 2024-02-20 at 11 23 07 AM" src="https://github.com/wkniffin/ai-news-aggregation/assets/10079417/43fa2de0-9dbb-40bd-a17c-cdd81f2f3278">
+
